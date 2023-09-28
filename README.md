@@ -9,7 +9,7 @@
 
 ![Edu GitHub stats](https://github-readme-stats.vercel.app/api?username=edugitdev&show_icons=true&theme=dracula)
 
-### Tecnologias que utilizo no meu dia 💻
+### Technologies I use in my day 💻
 
 <div style="display: inline_block"><br/>
     <img align='center alt='html5' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,7 +24,7 @@ https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=w
     <img align='center alt='html5' src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </div><br>
 
-### Conhecedor de toda esteira de Tecnologia desde o discovery até o delivery, um profissional Apaixonado por Tecnologia, sempre em busca de grandes desafios, sempre digo que não existe almoço grátis tudo é conquistado por meio de muita dedicação e consistência, 1% todo dia e chegarei no meu grande objetivo um dia que é ser mentor de TI e ajudar pessoas por meio de Tecnologia!!
+### Knowledgeable about the entire Technology spectrum from discovery to delivery, a professional Passionate about Technology, always looking for great challenges, I always say that there is no free lunch, everything is achieved through a lot of dedication and consistency, 1% of all day and I will reach my big goal one day, which is to be an IT mentor and help people through Technology!!
 
 
  
