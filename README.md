@@ -1,16 +1,50 @@
-### Hi there 👋
 
-<!--
-**edugitdev/edugitdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hello!! I am Eduardo Alves 🤙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/eduardo-alves-47aa3a267/)
+[![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu_alves95/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Edu_Dev#4432)
+
+![Edu GitHub stats](https://github-readme-stats.vercel.app/api?username=edugitdev&show_icons=true&theme=dracula)
+
+### Tecnologias que utilizo no meu dia 💻
+
+<div style="display: inline_block"><br/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blacke"/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align='center alt='html5' src="
+https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+</div><br>
+
+### Conhecedor de toda esteira de Tecnologia desde o discovery até o delivery, um profissional Apaixonado por Tecnologia, sempre em busca de grandes desafios, sempre digo que não existe almoço grátis tudo é conquistado por meio de muita dedicação e consistência, 1% todo dia e chegarei no meu grande objetivo um dia que é ser mentor de TI e ajudar pessoas por meio de Tecnologia!!
+
+
+ 
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
