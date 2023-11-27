@@ -1,6 +1,6 @@
 
 
-### Hello!! I am Eduardo Alves 🤙
+### Olá!! Eu sou Eduardo Alves 🤙
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](www.linkedin.com/in/eduardo-alves95/)
@@ -9,7 +9,7 @@
 
 ![Edu GitHub stats](https://github-readme-stats.vercel.app/api?username=edugitdev&show_icons=true&theme=dracula)
 
-### Technologies I use in my day 💻
+### Tecnologias que uso no meu dia 💻
 
 <div style="display: inline_block"><br/>
     <img align='center alt='html5' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,7 +24,7 @@ https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=w
     <img align='center alt='html5' src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </div><br>
 
-### Knowledgeable about the entire Technology spectrum from discovery to delivery, a professional Passionate about Technology, always looking for great challenges, I always say that there is no free lunch, everything is achieved through a lot of dedication and consistency, 1% of all day and I will reach my big goal one day, which is to be an IT mentor and help people through Technology!!
+### Conhecedor de todo o espectro da Tecnologia desde a descoberta até a entrega, um profissional Apaixonado por Tecnologia, sempre em busca de grandes desafios, sempre digo que não existe almoço grátis, tudo se consegue com muita dedicação e consistência, 1% do dia todo e Um dia alcançarei meu grande objetivo que é ser mentor de TI e ajudar pessoas através da Tecnologia!!
 
 
  
