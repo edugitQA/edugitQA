@@ -15,13 +15,13 @@
     <img align='center alt='html5' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align='center alt='html5' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align='center alt='html5' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blacke"/>
-    <img align='center alt='html5' src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align='center alt='html5' src="
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-    <img align='center alt='html5' src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
-    <img align='center alt='html5' src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&
+    logoColor=white"/>
+      <img align='center alt='html5' src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
     <img align='center alt='html5' src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-    <img align='center alt='html5' src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=whit"/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
 </div><br>
 
 ### Conhecedor de todo o espectro da Tecnologia desde a descoberta até a entrega, um profissional Apaixonado por Tecnologia, sempre em busca de grandes desafios, sempre digo que não existe almoço grátis, tudo se consegue com muita dedicação e consistência, 1% do dia todo e Um dia alcançarei meu grande objetivo que é ser mentor de TI e ajudar pessoas através da Tecnologia!!
