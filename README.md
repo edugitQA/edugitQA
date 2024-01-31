@@ -24,7 +24,7 @@
     <img align='center alt='html5' src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
 </div><br>
 
-### Conhecedor de todo o espectro da Tecnologia desde a descoberta até a entrega, um profissional Apaixonado por Tecnologia, sempre em busca de grandes desafios, sempre digo que não existe almoço grátis, tudo se consegue com muita dedicação e consistência, 1% do dia todo e Um dia alcançarei meu grande objetivo que é ser mentor de TI e ajudar pessoas através da Tecnologia!!
+### Conhecedor de toda esteira de Tecnologia desde o discover até o delivery, profissional Apaixonado por Tecnologia, sempre em busca de grandes desafios, sempre digo que não existe almoço grátis, tudo se consegue com muita dedicação e consistência, 1% do dia todo e Um dia alcançarei grandes objetivos e realização de sonhos!!
 
 
  
