@@ -7,7 +7,7 @@
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu_alves95/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Edu_Dev#4432)
 
-![Edu GitHub stats](https://github-readme-stats.vercel.app/api?username=edugitdev&show_icons=true&theme=dracula)
+![Edu GitHub stats](https://github-readme-stats.vercel.app/api?username=edugitQA&show_icons=true&theme=dracula)
 
 ### Tecnologias que uso no meu dia 💻
 
