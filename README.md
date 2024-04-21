@@ -25,7 +25,7 @@
     <img align='center alt='html5' src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
 </div><br>
 
-### Conhecedor de toda esteira de Tecnologia desde o discover até o delivery, profissional Apaixonado por Tecnologia, sempre em busca de grandes desafios, Ao longo de minha trajetória profissional, sempre mantive o comprometimento com a excelência, priorizando o cliente e o produto, promovendo o trabalho em equipe, incentivando a criatividade e demonstrando adaptabilidade, comunicação, organização, empatia e resiliência.
+### Conhecedor de toda esteira de Tecnologia desde o discovery até o delivery, profissional Apaixonado por Tecnologia, sempre em busca de grandes desafios, Ao longo de minha trajetória profissional, sempre mantive o comprometimento com a excelência, priorizando o cliente e o produto, promovendo o trabalho em equipe, incentivando a criatividade e demonstrando adaptabilidade, comunicação, organização, empatia e resiliência.
 
 
  
