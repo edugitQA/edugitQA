@@ -30,7 +30,7 @@
  	<code><img width="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/></code>
 </div>
 
-### Conhecedor de toda esteira de Tecnologia desde o discovery até o delivery, profissional Apaixonado por Tecnologia, sempre em busca de grandes desafios, Ao longo de minha trajetória profissional, sempre mantive o comprometimento com a excelência, priorizando o cliente e o produto, promovendo o trabalho em equipe, incentivando a criatividade e demonstrando adaptabilidade, comunicação, organização, empatia e resiliência.
+### Profissional apaixonado por tecnologia e conhecedor de toda a esteira de desenvolvimento, estou sempre em busca de novos desafios. Ao longo da minha trajetória, mantenho o compromisso com a excelência, focando tanto no cliente quanto no produto. Valorizo o trabalho em equipe, incentivo a criatividade e destaco minhas habilidades em comunicação, organização, adaptabilidade, empatia e resiliência.
 
 
  
