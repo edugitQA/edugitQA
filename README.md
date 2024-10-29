@@ -6,8 +6,11 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/eduardo-alves95/)
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu_alves95/)
 <a href = "mailto:eduardo.telecomrbs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edugitQA&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=edugitQA&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
 
-![Edu GitHub stats](https://github-readme-stats.vercel.app/api?username=edugitQA&show_icons=true&theme=dracula)
 
 ### Tecnologias e ferramentas que utilizo 💻
 <div style="display: inline_block"><br/>
