@@ -1,29 +1,20 @@
 
 
 ### Olá, Eu sou Eduardo Alves Analista de teste de Software!!
-
+<br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/eduardo-alves95/)
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu_alves95/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.telecomrbs@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edugitqa.github.io/Portifolio_Eduardo/)
+##
 
-
-
-<div align="left">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edugitQA&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="195" alt="Languages Graph" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=edugitQA&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="195" alt="Streak Stats"/>
-    </td>
-  </tr>
-</table>
-
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edugitQA&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edugitQA&layout=compact&langs_count=7&theme=dark" alt="Most Used Languages"/>
 </div>
 
+##
 
 ### Tecnologias e ferramentas que utilizo 💻
 <div style="display: inline_block"><br/>
