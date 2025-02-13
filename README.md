@@ -8,11 +8,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.telecomrbs@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edugitqa.github.io/Portifolio_Eduardo/)
 ##
-
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edugitQA&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<div style="display: flex; align-items: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edugitQA&layout=compact&langs_count=7&theme=dark" alt="Most Used Languages"/>
+	
+  <img src="https://github-readme-streak-stats-beta-seven.vercel.app?user=edugitQA&theme=highcontrast&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
+
+
 
 ##
 
