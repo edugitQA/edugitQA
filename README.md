@@ -43,7 +43,11 @@
 	
 </div>
 
-<h3 align="justify"> Profissional apaixonado por tecnologia e conhecedor de toda a esteira de desenvolvimento, estou sempre em busca de novos desafios. Ao longo da minha trajetória, mantenho o compromisso com a excelência, focando tanto no cliente quanto no produto. Valorizo o trabalho em equipe, incentivo a criatividade e destaco minhas habilidades em comunicação, organização, adaptabilidade, empatia e resiliência. </h3>
+<h3 align="justify"> Profissional apaixonado por tecnologia e especializado em Garantia da Qualidade (QA), com amplo conhecimento de toda a esteira de desenvolvimento de software e foco em entregar produtos robustos e de alta performance. Estou sempre em busca de novos desafios que envolvam a aplicação de práticas modernas de QA, incluindo o uso de inteligência artificial para aprimorar processos de testes, automação e análise preditiva de falhas.
+
+Comprometido com a excelência, mantenho um olhar atento à experiência do usuário e à qualidade do produto final, assegurando que cada entrega atenda aos mais altos padrões. Valorizo o trabalho em equipe e acredito que a IA pode ser uma aliada estratégica na otimização de pipelines de testes, aumentando a eficiência e reduzindo o time-to-market.
+
+Destaco minhas habilidades em comunicação, organização, adaptabilidade, empatia e resiliência, além da capacidade de implementar soluções inovadoras que impulsionam a qualidade, a produtividade e a inovação contínua nos projetos.. </h3>
 
 
  
