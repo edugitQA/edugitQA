@@ -14,7 +14,6 @@
   <img src="https://github-readme-streak-stats-beta-seven.vercel.app?user=edugitQA&theme=highcontrast&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
 
-
 ##
 
 ### Tecnologias e ferramentas que utilizo 💻
