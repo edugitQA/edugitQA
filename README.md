@@ -38,6 +38,8 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" alt="Robot Framework" title="Robot Framework"/></code>
  	<code><img width="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png" alt="Digital Ocean" title="Digital Ocean"/></code>
+
 
 	
 </div>
