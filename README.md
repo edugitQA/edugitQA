@@ -1,6 +1,7 @@
 
 
-### Olá, Eu sou Eduardo Alves Analista de teste de Software!!
+# 👋 Olá! Eu sou o Eduardo Alves Analista de teste de Software!!
+🎯 **Quality Assurance | IA aplicada a produtos | Python + LLMs + Low-code**
 <br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/eduardo-alves95/)
@@ -44,11 +45,45 @@
 	
 </div>
 
-<h3 align="justify"> Profissional apaixonado por tecnologia e especializado em Garantia da Qualidade (QA), com amplo conhecimento de toda a esteira de desenvolvimento de software e foco em entregar produtos robustos e de alta performance. Estou sempre em busca de novos desafios que envolvam a aplicação de práticas modernas de QA, incluindo o uso de inteligência artificial para aprimorar processos de testes, automação e análise preditiva de falhas.
+Sou um profissional apaixonado por tecnologia e inovação, com sólida experiência em **Garantia da Qualidade (QA)** e uma visão sistêmica de todo o ciclo de desenvolvimento de software. Hoje, venho expandindo minhas habilidades para o universo da **Inteligência Artificial**, explorando o uso de **LLMs, RAG e automações low-code** para construir agentes realmente úteis e que agregam valor aos projetos.
 
-Comprometido com a excelência, mantenho um olhar atento à experiência do usuário e à qualidade do produto final, assegurando que cada entrega atenda aos mais altos padrões. Valorizo o trabalho em equipe e acredito que a IA pode ser uma aliada estratégica na otimização de pipelines de testes, aumentando a eficiência e reduzindo o time-to-market.
+---
 
-Destaco minhas habilidades em comunicação, organização, adaptabilidade, empatia e resiliência, além da capacidade de implementar soluções inovadoras que impulsionam a qualidade, a produtividade e a inovação contínua nos projetos.. </h3>
+## 🚀 O que estou construindo
+
+💡 Minha missão é unir **qualidade, automação e IA** para acelerar entregas, reduzir falhas e criar produtos mais inteligentes.
+
+Atualmente trabalho com:
+
+- ✅ **QA moderno** com foco em automação, testes inteligentes e análise preditiva de falhas;
+- 🧠 **LLMs (Large Language Models)** com **Python** para construir agentes de IA autônomos;
+- 🔍 **RAG (Retrieval-Augmented Generation)**: tratamento e estruturação de dados para alimentar modelos com informações contextuais;
+- ⚙️ **Low-code (n8n)**: criação de fluxos automatizados e integração com ferramentas de times de QA e Produto;
+- 📈 Aplicações reais com **IA generativa** para otimizar tarefas, tomar decisões e criar experiências mais inteligentes.
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+- **Linguagens**: Python • Markdown
+- **IA e Dados**: OpenAI API • LangChain • Pandas • RAG pipelines
+- **Qualidade**: Appium • Postman 
+- **DevOps & Ambiente**: Docker • Git • GitHub Actions
+- **Low-code**: n8n 
+- **Bancos de Dados**: SQLite • PostgreSQL • Supabase
+- **Outros**: Jira • Notion • VS Code
+
+---
+
+## 🌱 Em constante evolução
+
+- Aprendendo mais sobre **orquestração de LLMs**, **agentes autônomos** e **engenharia de prompt**;
+- Desenvolvendo projetos com foco em **IA prática**, com impacto direto em produtividade e tomada de decisão;
+- Criando soluções que unem **tecnologia + visão de negócio + experiência do usuário**.
+
+---
+
+> “Não basta encontrar bugs — é preciso prevenir falhas, otimizar fluxos e entregar com propósito.”
 
 
  
