@@ -8,6 +8,7 @@
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu_alves95/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.telecomrbs@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edugitqa.github.io/Portifolio_Eduardo/)
+
 ##
 <div style="display: flex; align-items: center;">
   <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edugitQA&layout=compact&langs_count=7&theme=highcontrast" alt="Most Used Languages"/>
@@ -15,7 +16,6 @@
   <img src="https://github-readme-streak-stats-beta-seven.vercel.app?user=edugitQA&theme=highcontrast&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
 
-##
 
 ### Tecnologias e ferramentas que utilizo 💻
 <div style="display: inline_block"><br/>
@@ -39,11 +39,9 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" alt="Robot Framework" title="Robot Framework"/></code>
  	<code><img width="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png" alt="Digital Ocean" title="Digital Ocean"/></code>
-
-
-	
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png" alt="Digital Ocean" title="Digital Ocean"/></code>	
 </div>
+<br>
 
 Sou um profissional apaixonado por tecnologia e inovação, com sólida experiência em **Garantia da Qualidade (QA)** e uma visão sistêmica de todo o ciclo de desenvolvimento de software. Hoje, venho expandindo minhas habilidades para o universo da **Inteligência Artificial**, explorando o uso de **LLMs, RAG e automações low-code** para construir agentes realmente úteis e que agregam valor aos projetos.
 
