@@ -1,7 +1,7 @@
 
 
-# 👋 Olá! Eu sou o Eduardo Alves Analista de teste de Software!!
-🎯 **Quality Assurance | IA aplicada a produtos | Python + LLMs + Low-code**
+# Olá! Sou o Eduardo Analista de teste de Software!!
+**Quality Assurance | IA aplicada a produtos | Python + LLMs + Low-code**
 <br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/eduardo-alves95/)
