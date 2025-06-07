@@ -12,8 +12,8 @@
 ##
 <div style="display: flex; align-items: center;">
   <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edugitQA&layout=compact&langs_count=7&theme=highcontrast" alt="Most Used Languages"/>
-	
-  [![GitHub Streak](https://github-readme-streak-statsv1.vercel.app?user=edugitQA&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-statsv1.vercel.app?user=edugitQA&theme=dark" alt="GitHub Streak" /></a>
+  
 </div>
 
 
