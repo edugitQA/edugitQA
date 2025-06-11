@@ -7,7 +7,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/eduardo-alves95/)
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu_alves95/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.telecomrbs@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edugitqa.github.io/Portifolio_Eduardo/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edugitqa.github.io/Portfolio_Eduardo/)
 
 ##
 <div style="display: flex; align-items: center;">
