@@ -1,6 +1,6 @@
 
 
-# Olá! Sou o Eduardo Analista de teste & AI!!
+# Olá! Sou o Eduardo Analista de teste & IA
 **Quality Assurance | IA aplicada a produtos | Python + LLMs + Low-code**
 <br>
 
