@@ -54,7 +54,7 @@
 </div>
 <br>
 
-Sou um profissional apaixonado por tecnologia e inovação, com sólida experiência em **Garantia da Qualidade (QA)** e uma visão sistêmica de todo o ciclo de desenvolvimento de software. Hoje, venho expandindo minhas habilidades para o universo da **Inteligência Artificial**, explorando o uso de **LLMs, RAG e automações low-code** para construir agentes realmente úteis e que agregam valor aos projetos.
+Sou um profissional apaixonado por tecnologia e inovação, com sólida experiência em **Garantia da Qualidade (QA)** e uma visão sistêmica de todo o ciclo de desenvolvimento de software. Atualmente, venho ampliando minhas competências para o universo da **Inteligência Artificial**, explorando o uso estratégico de **LLMs, RAG e automações low-code** para desenvolver soluções inteligentes, escaláveis e orientadas a valor, que realmente façam a diferença nos projetos e nos resultados de negócio.
 
 ---
 
