@@ -57,7 +57,7 @@ Sou um profissional apaixonado por tecnologia e inovação, com sólida experiê
 
 ---
 
-## 🚀 O que estou construindo
+## 🚀 O que estou construindo:
 
 💡 Minha missão é unir **qualidade, automação e IA** para acelerar entregas, reduzir falhas e criar produtos mais inteligentes.
 
