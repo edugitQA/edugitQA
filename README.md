@@ -1,7 +1,7 @@
 
 
-# Olá! Sou o Eduardo Analista de teste & IA
-**Quality Assurance | IA aplicada a produtos | Python + LLMs + Low-code**
+# Olá! Sou o Eduardo Analista de teste & IA + Dados
+**Quality Assurance | Engenharia de Dados & IA | Python + LLMs**
 <br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/eduardo-alves95/)
@@ -53,7 +53,7 @@
 </div>
 <br>
 
-Sou um profissional apaixonado por tecnologia e inovação, com sólida experiência em **Garantia da Qualidade (QA)** e uma visão sistêmica de todo o ciclo de desenvolvimento de software. Atualmente, venho ampliando minhas competências para o universo da **Inteligência Artificial**, explorando o uso estratégico de **LLMs, RAG e automações low-code** para desenvolver soluções inteligentes, escaláveis e orientadas a valor, que realmente façam a diferença nos projetos e nos resultados de negócio.
+Com uma sólida trajetória em Garantia da Qualidade (QA) e uma perspectiva sistêmica do desenvolvimento de software, dedico-me também a desbravar as fronteiras da Inteligência Artificial e da Engenharia de Dados. Minha experiência me permite ir além da validação tradicional, focando na arquitetura e implementação estratégica de LLMs e RAG, bem como na otimização de fluxos de ETL/ELT. Meu propósito é criar soluções orientadas a dados que agreguem valor real, garantindo a robustez, escalabilidade e o impacto direto nos resultados de negócio.
 
 ---
 
@@ -63,29 +63,29 @@ Sou um profissional apaixonado por tecnologia e inovação, com sólida experiê
 
 Atualmente trabalho com:
 
-- ✅ **QA moderno** com foco em automação, testes inteligentes e análise preditiva de falhas;
-- 🧠 **LLMs (Large Language Models)** com **Python** para construir agentes de IA autônomos;
-- 🔍 **RAG (Retrieval-Augmented Generation)**: tratamento e estruturação de dados para alimentar modelos com informações contextuais;
-- ⚙️ **Low-code (n8n)**: criação de fluxos automatizados e integração com ferramentas de times de QA e Produto;
-- 📈 Aplicações reais com **IA generativa** para otimizar tarefas, tomar decisões e criar experiências mais inteligentes.
+Atualmente, estou focado em:
 
+- ✅ **Quality Engineering moderno**: automação robusta, testes inteligentes e análise preditiva de falhas orientada por dados;
+- 🧠 Desenvolvimento de **agentes autônomos com LLMs (Large Language Models)** usando **Python**, aplicando conceitos avançados de IA aplicada;
+- 🔍 Implementação de **RAG (Retrieval-Augmented Generation)**: estruturando e enriquecendo dados para fornecer contexto relevante aos modelos;
+- ⚙️ Construção de **pipelines de dados (ETL/ELT)** voltados para eficiência e escalabilidade em fluxos de machine learning e QA;
+- 📈 Criação de **aplicações práticas com IA generativa**, otimizando processos, decisões e experiências através de automação cognitiva.**
 ---
 
 ## 🧰 Tecnologias e Ferramentas
 
 - **Linguagens**: Python • Markdown
-- **IA e Dados**: OpenAI API • LangChain • Pandas • RAG pipelines
-- **Qualidade**: Appium • Postman 
+- **IA e Dados**: llm API • LangChain • langgraph 
+- **Qualidade**: Robot • Postman • Sql • ERP   
 - **DevOps & Ambiente**: Docker • Git • GitHub Actions
-- **Low-code**: n8n 
 - **Bancos de Dados**: SQLite • PostgreSQL • Supabase
-- **Outros**: Jira • Notion • VS Code
+- **Outros**: Jira • Notion • VS Code • trello 
 
 ---
 
 ## 🌱 Em constante evolução
 
-- Aprendendo mais sobre **orquestração de LLMs**, **agentes autônomos** e **engenharia de prompt**;
+- Aprendendo mais sobre **orquestração de LLMs**, **agentes autônomos**, **engenharia de dados** e **engenharia de prompt**;
 - Desenvolvendo projetos com foco em **IA prática**, com impacto direto em produtividade e tomada de decisão;
 - Criando soluções que unem **tecnologia + visão de negócio + experiência do usuário**.
 
