@@ -1,6 +1,6 @@
 
 
-# Olá! Sou o Eduardo Analista de teste & IA + Dados
+# Olá! Sou o Eduardo Analista de Teste & IA + Dados
 **Quality Assurance | Engenharia de Dados & IA | Python + LLMs**
 <br>
 
