@@ -61,8 +61,6 @@ Com uma sólida trajetória em Garantia da Qualidade (QA) e uma perspectiva sist
 
 💡 Minha missão é unir **qualidade, automação e IA** para acelerar entregas, reduzir falhas e criar produtos mais inteligentes.
 
-Atualmente trabalho com:
-
 Atualmente, estou focado em:
 
 - ✅ **Quality Engineer moderno**: automação robusta, testes inteligentes e análise preditiva de falhas orientada por dados;
