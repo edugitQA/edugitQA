@@ -1,6 +1,6 @@
 
 
-# Olá! Sou o Eduardo Analista de Teste & IA + Dados
+# Olá! Sou o Eduardo Analista de Teste de Software
 **Quality Assurance | Automação de Testes |Data-Driven Quality| Python + IA**
 <br>
 
