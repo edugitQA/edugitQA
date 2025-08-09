@@ -66,7 +66,7 @@ Atualmente, estou focado em:
 - ✅ **Quality Engineer moderno**: automação robusta, testes inteligentes e análise preditiva de falhas orientada por dados;
 - 🧠 Desenvolvimento de **agentes autônomos com LLMs (Large Language Models)** usando **Python**, aplicando conceitos avançados de IA aplicada;
 - 🔍 Implementação de **RAG (Retrieval-Augmented Generation)**: estruturando e enriquecendo dados para fornecer contexto relevante aos modelos;
-- ⚙️ Construção de **pipelines de dados (ETL/ELT)** voltados para eficiência e escalabilidade em fluxos de machine learning e QA;
+- ⚙️ Construção de **pipelines de dados (ETL/ELT)** voltados para eficiência e escalabilidade;
 - 📈 Criação de **aplicações práticas com IA generativa**, otimizando processos, decisões e experiências através de automação cognitiva.**
 ---
 
