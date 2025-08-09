@@ -1,7 +1,7 @@
 
 
 # Olá! Sou o Eduardo Analista de Teste & IA + Dados
-**Quality Assurance | Engenharia de Dados & IA | Python + LLMs**
+**Quality Assurance | Automação de Testes |Data-Driven Quality| Python + IA**
 <br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/eduardo-alves95/)
