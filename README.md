@@ -74,7 +74,7 @@ Atualmente, estou focado em:
 
 - **Linguagens**: Python • Markdown
 - **IA e Dados**: llm API • LangChain • langgraph 
-- **Qualidade**: Robot • Postman • Sql • ERP   
+- **Qualidade**: Robot • Postman • Sql • CI/CD
 - **DevOps & Ambiente**: Docker • Git • GitHub Actions
 - **Bancos de Dados**: SQLite • PostgreSQL • Supabase
 - **Outros**: Jira • Notion • VS Code • trello 
