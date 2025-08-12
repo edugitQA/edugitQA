@@ -73,7 +73,7 @@ Atualmente, estou focado em:
 ## 🧰 Tecnologias e Ferramentas
 
 - **Linguagens**: Python • Markdown
-- **IA e Dados**: llm API • LangChain • langgraph 
+- **IA e Dados**: llm API • LangChain • langgraph • Azure 
 - **Qualidade**: Robot • Postman • Sql • playwright
 - **DevOps & Ambiente**: Docker • Git • GitHub Actions
 - **Bancos de Dados**: SQLite • PostgreSQL • Supabase
