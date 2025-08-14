@@ -1,6 +1,6 @@
 
 
-# Olá! Sou o Eduardo Analista de Teste de Software
+# Olá! Sou o Eduardo Analista de Teste de Software <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
 **Quality Assurance | Automação de Testes |Data-Driven Quality| Python + IA**
 <br>
 
@@ -46,6 +46,8 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/></code>
 
 </div>
+
+	
 
   <div align="center">
 	
