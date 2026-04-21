@@ -1,7 +1,7 @@
 # Olá! Eu sou o Eduardo Alves 👋  
 
 
-## AI-Driven QA Engineer | Quality Engineering • Data • LLM Solutions  
+## AI System Analyst • Quality Engineering • Data • LLM Solutions  
 **Python | LangChain | LangGraph | Intelligent Automation | Azure Certified (DP-900 | AZ-900)** <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-alves95/)
